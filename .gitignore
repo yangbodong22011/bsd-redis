@@ -40,3 +40,6 @@ Makefile.dep
 .ccls-cache/*
 compile_commands.json
 redis.code-workspace
+cmake-build-debug/
+deps/lua/cmake-build-debug/
+modules/
